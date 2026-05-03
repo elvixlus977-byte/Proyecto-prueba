@@ -18,3 +18,5 @@ int main() {
 
 return 0;
 }
+
+mamm//amamabicho aqui lo edite uwu Bradley 

@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <cstring>//escribi esto; Miguel:
 
 using namespace std;
 
